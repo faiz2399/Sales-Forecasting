@@ -5,7 +5,7 @@ Details regarding different metrics and operations performed on the dataset are 
 
 # Data Sets
 
-In the repo 'superstore.xlsx' file consists of the dataset. \ 
+In the repo 'superstore.xlsx' file consists of the dataset.\ 
 Upload these datasets on to your google drive.
 
 #  Google colab
